@@ -1,0 +1,94 @@
+{
+  "uuid": "59344204ae98d3c800d1bcfe91edc711",
+  "path": "Offline/ID%20card",
+  "name": "ID card",
+  "content": "",
+  "created_at": "2023-01-09 09:48:24",
+  "updated_at": "2023-01-09 20:29:59",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3015ab0034acfeabfff750537fd05bbe",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d0791ab35b8e40339d04b1398ef83a2e": 1,
+        "f7800b06fad547b69b5f810ffb917a8c": 1,
+        "89026c0e23ca49dcb85d26a1d0805b33": 1,
+        "94f41e01979346e29dc343ab1fde3e61": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          1,
+          "C0805",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "AT24C256C-SSHL-T",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MICROCHIP(美国微芯)",
+            "BOM_Manufacturer Part": "AT24C256C-SSHL-T",
+            "BOM_Supplier Part": "C6482",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "806a55eb4d3c40ab838f70f86785d85e",
+            "uuid": "f7800b06fad547b69b5f810ffb917a8c"
+          }
+        ]
+      ],
+      "updateTime": 1673255165,
+      "createTime": 1673218105,
+      "histories": [],
+      "created_at": "2023-01-09 09:48:25",
+      "updated_at": "2023-01-09 20:06:05"
+    },
+    {
+      "uuid": "a6881f79a143c04ae066fbabfcbf906f",
+      "puuid": "59344204ae98d3c800d1bcfe91edc711",
+      "title": "PCB_ID card",
+      "filename": "PCB_ID card.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "806a55eb4d3c40ab838f70f86785d85e": 1,
+        "87c290ed14cf4ce6b4d3e5008d18edc7": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 1,
+        "ac693477732f4bcbace4bddb5a9794e9": 1
+      },
+      "BOM": [],
+      "updateTime": 1673256599,
+      "createTime": 1673218315,
+      "histories": [],
+      "created_at": "2023-01-09 09:51:55",
+      "updated_at": "2023-01-09 20:29:59"
+    }
+  ],
+  "sort": [],
+  "title": "ID card",
+  "foldername": "ID card",
+  "schfilename": "ID card.json",
+  "schfilemtime": 1673255165413
+}
